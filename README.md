@@ -1,13 +1,7 @@
-# Hassan Ali - Software Engineer
+# Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali-blue)](https://www.linkedin.com/in/hassanali52)  
 [![Email](https://img.shields.io/badge/Email-hassanalimaliik023%40gmail.com-red)](mailto:hassanalimaliik023@gmail.com)  
-
----
-
-## 👨‍💻 About Me
-
-Experienced Software Engineer with expertise in ASP.NET, C#, MVC architecture, HTML, CSS, JavaScript, and SQL Server for database management. Passionate about crafting user-friendly, responsive web applications that exceed client expectations.
 
 ---
 
