@@ -1,7 +1,7 @@
 # Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali-blue)](https://www.linkedin.com/in/hassanali52)  
-[![Email](https://img.shields.io/badge/Email-hassanalimaliik023%40gmail.com-red)](mailto:hassanalimaliik023@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-hassanalimaliik023%40gmail.com-red)](mailto:hassanalimalik023@gmail.com)  
 
 ---
 
