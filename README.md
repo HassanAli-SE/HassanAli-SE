@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali-blue)](https://www.linkedin.com/in/hassanali52)  
 [![Email](https://img.shields.io/badge/Email-hassanalimalik023%40gmail.com-red)](mailto:hassanalimalik023@gmail.com)  
-
+[![Phone](https://img.shields.io/badge/Phone-%2B923044556637-brightgreen)](tel:+923044556637)
 ---
 
 ## 🎓 Education
@@ -16,17 +16,19 @@ Institute Of Management Sciences, Lahore
 
 ## 💼 Work Experience
 
-### **Software Engineer - Best Solutions**
-*05/2022 - 06/2023 | Lahore*
+### **Software Engineer - Punjab Information Technology Board (PITB)**
+*07/2024 - Present | Lahore*
 
-- Developed and maintained a comprehensive ERP system for logistics management.
-- Worked on custom solutions for an Embroidery company.
-- Enhanced user interfaces using .NET MVC and Windows Forms.
-- Managed and integrated databases with MS SQL Server.
-- Created and maintained RDLC reports for various business needs.
+- Developed and maintained the **E-Registration platform** for Sindh, enabling secure digital transfer of land and property ownership.
+- Integrated **biometric fingerprint devices** and **camera-based verification** for accurate authentication.
+- Built **RESTful APIs** with **.NET Core Web API** for system integration and communication between various platform components.
+- Implemented key modules for property registration and ownership transfer processes.
+- Provided real-time insights using **RDLC reporting solutions** for data visualization and reporting.
+- Utilized **ASP.NET, .NET Core Web API, SQL Server, JavaScript, Bootstrap**, and **Node.js** to ensure robust and reliable platform performance.
+
 
 ### **Software Engineer - RapidSilicon**
-*06/2023 - Present | Lahore*
+*06/2022 - *06/2024 | Lahore*
 
 - Specialized in web development, handling both frontend and backend technologies for an HR management system.
 - Managed employee information, including leaves, attendance, and employee history.
